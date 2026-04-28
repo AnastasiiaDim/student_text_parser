@@ -1,7 +1,7 @@
 import re
 import json
 import logging
-import os
+from pathlib import Path
 
 # Set up logging
 logging.basicConfig(
@@ -13,21 +13,12 @@ logging.basicConfig(
 #
 # Process the files
 
-student_folder = "C:\\Users\\Анастасия\\Desktop\\python_codes_in_txt\\student_texts"
-student_files = []
-student_contents = []
+student_folder = Path("C:\\Users\\Анастасия\\Desktop\\python_codes_in_txt\\student_texts")
 
-if not os.path.exists(student_folder):
-    raise FileNotFoundError(f"Check your path: {student_folder}")
+student_texts = {
+    file.name : file.read_text(encoding="utf-8")
+    for file in student_folder.iterdir()
+    if file.is_file() and file.suffix == ".txt"
+}
 
-for file_name in os.listdir(student_folder):
-    full_path = os.path.join(student_folder, file_name)
-
-    if os.path.isfile(full_path):
-        student_files.append(file_name)
-
-        with open(full_path, "r") as f:
-            student_contents.append(f.read())
-
-student_texts = dict(zip(student_files, student_contents))
 print(student_texts)
