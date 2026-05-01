@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1464573d-ee65-40e4-a76a-dcc0399c79c5" name="Changes" comment="edit: processing the files &#10;add: extract data with regex in Student Text Parser">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="1464573d-ee65-40e4-a76a-dcc0399c79c5" name="Changes" comment="edit: json file &#10;done: Student Text Parser">
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777460264903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="edit: json file &#10;done: Student Text Parser">
+      <option name="closed" value="true" />
+      <created>1777621490877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777621490877</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +123,7 @@
     <MESSAGE value="add: process the files in Student Text Parser" />
     <MESSAGE value="improved: dictionary comprehension in processing the files in Student Text Parser" />
     <MESSAGE value="edit: processing the files &#10;add: extract data with regex in Student Text Parser" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit: processing the files &#10;add: extract data with regex in Student Text Parser" />
+    <MESSAGE value="edit: json file &#10;done: Student Text Parser" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit: json file &#10;done: Student Text Parser" />
   </component>
 </project>

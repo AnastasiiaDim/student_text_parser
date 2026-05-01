@@ -58,7 +58,7 @@ for file_name in student_folder.iterdir():
 summary = {
     "total_files": len(results),
     "total_words": sum(r["words_count"] for r in results.values()),
-    "total_sentences": sum(r["sentences"] for r in results.values()),
+    "total_sentences": sum(r["sentences_count"] for r in results.values()),
     "files_with_emails": sum(1 for r in results.values() if r["emails"]),
     "files_with_dates": sum(1 for r in results.values() if r["dates"]),
 }

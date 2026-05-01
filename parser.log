@@ -424,3 +424,43 @@ olga.workstudy09@gmail.com
 2026-05-01 09:42:57,730 - INFO - Processing student_10.txt
 2026-05-01 09:42:57,730 - INFO - --------Statistics for student_10.txt--------
 2026-05-01 09:42:57,736 - INFO - Words: 58 | Sentences: 5 | Emails: 0 | Dates: 0
+2026-05-01 09:48:07,610 - INFO - Processing student_01.txt
+2026-05-01 09:48:07,610 - INFO - --------Statistics for student_01.txt--------
+2026-05-01 09:48:07,610 - INFO - Words: 71 | Sentences: 6 | Emails: 1 | Dates: 1
+2026-05-01 09:48:07,610 - INFO - Emails found: anna.kowalska01@gmail.com
+2026-05-01 09:48:07,610 - INFO - Dates found: 12/03/2026
+2026-05-01 09:48:07,610 - INFO - Processing student_02.txt
+2026-05-01 09:48:07,610 - INFO - --------Statistics for student_02.txt--------
+2026-05-01 09:48:07,610 - INFO - Words: 63 | Sentences: 5 | Emails: 1 | Dates: 1
+2026-05-01 09:48:07,610 - INFO - Emails found: tomasz.nowak.study@outlook.com
+2026-05-01 09:48:07,610 - INFO - Dates found: 15/03/2026
+2026-05-01 09:48:07,611 - INFO - Processing student_03.txt
+2026-05-01 09:48:07,611 - INFO - --------Statistics for student_03.txt--------
+2026-05-01 09:48:07,611 - INFO - Words: 44 | Sentences: 4 | Emails: 0 | Dates: 1
+2026-05-01 09:48:07,611 - INFO - Dates found: 18/03/2026
+2026-05-01 09:48:07,611 - INFO - Processing student_04.txt
+2026-05-01 09:48:07,611 - INFO - --------Statistics for student_04.txt--------
+2026-05-01 09:48:07,611 - INFO - Words: 55 | Sentences: 8 | Emails: 0 | Dates: 0
+2026-05-01 09:48:07,611 - INFO - Processing student_05.txt
+2026-05-01 09:48:07,611 - INFO - --------Statistics for student_05.txt--------
+2026-05-01 09:48:07,611 - INFO - Words: 21 | Sentences: 3 | Emails: 0 | Dates: 0
+2026-05-01 09:48:07,611 - INFO - Processing student_06.txt
+2026-05-01 09:48:07,611 - INFO - --------Statistics for student_06.txt--------
+2026-05-01 09:48:07,612 - INFO - Words: 46 | Sentences: 4 | Emails: 1 | Dates: 0
+2026-05-01 09:48:07,612 - INFO - Emails found: elena.rodriguez.ai@gmail.com
+2026-05-01 09:48:07,612 - INFO - Processing student_07.txt
+2026-05-01 09:48:07,612 - INFO - --------Statistics for student_07.txt--------
+2026-05-01 09:48:07,612 - INFO - Words: 60 | Sentences: 5 | Emails: 1 | Dates: 1
+2026-05-01 09:48:07,612 - INFO - Emails found: pawel.travel07@interia.pl
+2026-05-01 09:48:07,612 - INFO - Dates found: 27/03/2026
+2026-05-01 09:48:07,612 - INFO - Processing student_08.txt
+2026-05-01 09:48:07,612 - INFO - --------Statistics for student_08.txt--------
+2026-05-01 09:48:07,612 - INFO - Words: 35 | Sentences: 4 | Emails: 0 | Dates: 0
+2026-05-01 09:48:07,612 - INFO - Processing student_09.txt
+2026-05-01 09:48:07,612 - INFO - --------Statistics for student_09.txt--------
+2026-05-01 09:48:07,612 - INFO - Words: 49 | Sentences: 4 | Emails: 1 | Dates: 0
+2026-05-01 09:48:07,613 - INFO - Emails found: olga.workstudy09@gmail.com
+2026-05-01 09:48:07,613 - INFO - Processing student_10.txt
+2026-05-01 09:48:07,613 - INFO - --------Statistics for student_10.txt--------
+2026-05-01 09:48:07,613 - INFO - Words: 58 | Sentences: 5 | Emails: 0 | Dates: 0
+2026-05-01 09:48:07,613 - INFO - Report saved to report.json
