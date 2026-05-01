@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1464573d-ee65-40e4-a76a-dcc0399c79c5" name="Changes" comment="improved: dictionary comprehension in processing the files in Student Text Parser">
+    <list default="true" id="1464573d-ee65-40e4-a76a-dcc0399c79c5" name="Changes" comment="edit: processing the files &#10;add: extract data with regex in Student Text Parser">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -100,13 +100,22 @@
       <option name="project" value="LOCAL" />
       <updated>1777385890096</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edit: processing the files &#10;add: extract data with regex in Student Text Parser">
+      <option name="closed" value="true" />
+      <created>1777460264903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777460264903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new: project Student Text Parser, set up logging" />
     <MESSAGE value="add: process the files in Student Text Parser" />
     <MESSAGE value="improved: dictionary comprehension in processing the files in Student Text Parser" />
-    <option name="LAST_COMMIT_MESSAGE" value="improved: dictionary comprehension in processing the files in Student Text Parser" />
+    <MESSAGE value="edit: processing the files &#10;add: extract data with regex in Student Text Parser" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit: processing the files &#10;add: extract data with regex in Student Text Parser" />
   </component>
 </project>

@@ -1,0 +1,426 @@
+2026-04-29 11:30:36,377 - INFO - Processing student_01.txt
+2026-04-29 11:30:36,377 - INFO - Done: 71 words found
+2026-04-29 11:30:36,377 - INFO - Processing student_02.txt
+2026-04-29 11:30:36,377 - INFO - Done: 63 words found
+2026-04-29 11:30:36,377 - INFO - Processing student_03.txt
+2026-04-29 11:30:36,378 - INFO - Done: 44 words found
+2026-04-29 11:30:36,378 - INFO - Processing student_04.txt
+2026-04-29 11:30:36,378 - INFO - Done: 55 words found
+2026-04-29 11:30:36,378 - INFO - Processing student_05.txt
+2026-04-29 11:30:36,378 - INFO - Done: 21 words found
+2026-04-29 11:30:36,378 - INFO - Processing student_06.txt
+2026-04-29 11:30:36,378 - INFO - Done: 46 words found
+2026-04-29 11:30:36,378 - INFO - Processing student_07.txt
+2026-04-29 11:30:36,379 - INFO - Done: 60 words found
+2026-04-29 11:30:36,379 - INFO - Processing student_08.txt
+2026-04-29 11:30:36,379 - INFO - Done: 35 words found
+2026-04-29 11:30:36,379 - INFO - Processing student_09.txt
+2026-04-29 11:30:36,379 - INFO - Done: 49 words found
+2026-04-29 11:30:36,379 - INFO - Processing student_10.txt
+2026-04-29 11:30:36,380 - INFO - Done: 58 words found
+2026-04-29 11:30:36,380 - INFO - Report saved to report.json
+2026-04-29 11:31:41,342 - INFO - Processing student_01.txt
+2026-04-29 11:31:41,342 - INFO - Done: 71 words found
+2026-04-29 11:31:41,342 - INFO - Done: [] emails found
+2026-04-29 11:31:41,342 - INFO - Done: [] dates found
+2026-04-29 11:31:41,342 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,342 - INFO - Processing student_02.txt
+2026-04-29 11:31:41,343 - INFO - Done: 63 words found
+2026-04-29 11:31:41,343 - INFO - Done: [] emails found
+2026-04-29 11:31:41,343 - INFO - Done: [] dates found
+2026-04-29 11:31:41,343 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,343 - INFO - Processing student_03.txt
+2026-04-29 11:31:41,343 - INFO - Done: 44 words found
+2026-04-29 11:31:41,343 - INFO - Done: [] emails found
+2026-04-29 11:31:41,343 - INFO - Done: [] dates found
+2026-04-29 11:31:41,343 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,343 - INFO - Processing student_04.txt
+2026-04-29 11:31:41,343 - INFO - Done: 55 words found
+2026-04-29 11:31:41,343 - INFO - Done: [] emails found
+2026-04-29 11:31:41,344 - INFO - Done: [] dates found
+2026-04-29 11:31:41,344 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,344 - INFO - Processing student_05.txt
+2026-04-29 11:31:41,344 - INFO - Done: 21 words found
+2026-04-29 11:31:41,344 - INFO - Done: [] emails found
+2026-04-29 11:31:41,344 - INFO - Done: [] dates found
+2026-04-29 11:31:41,344 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,344 - INFO - Processing student_06.txt
+2026-04-29 11:31:41,344 - INFO - Done: 46 words found
+2026-04-29 11:31:41,344 - INFO - Done: [] emails found
+2026-04-29 11:31:41,344 - INFO - Done: [] dates found
+2026-04-29 11:31:41,344 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,344 - INFO - Processing student_07.txt
+2026-04-29 11:31:41,344 - INFO - Done: 60 words found
+2026-04-29 11:31:41,344 - INFO - Done: [] emails found
+2026-04-29 11:31:41,344 - INFO - Done: [] dates found
+2026-04-29 11:31:41,345 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,345 - INFO - Processing student_08.txt
+2026-04-29 11:31:41,345 - INFO - Done: 35 words found
+2026-04-29 11:31:41,345 - INFO - Done: [] emails found
+2026-04-29 11:31:41,345 - INFO - Done: [] dates found
+2026-04-29 11:31:41,345 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,345 - INFO - Processing student_09.txt
+2026-04-29 11:31:41,345 - INFO - Done: 49 words found
+2026-04-29 11:31:41,345 - INFO - Done: [] emails found
+2026-04-29 11:31:41,345 - INFO - Done: [] dates found
+2026-04-29 11:31:41,345 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,345 - INFO - Processing student_10.txt
+2026-04-29 11:31:41,345 - INFO - Done: 58 words found
+2026-04-29 11:31:41,345 - INFO - Done: [] emails found
+2026-04-29 11:31:41,345 - INFO - Done: [] dates found
+2026-04-29 11:31:41,345 - INFO - Done: 0 sentences found
+2026-04-29 11:31:41,346 - INFO - Report saved to report.json
+2026-04-29 11:32:19,811 - INFO - Processing student_01.txt
+2026-04-29 11:32:19,812 - INFO - Done: 71 words found
+2026-04-29 11:32:19,812 - INFO - Done: [] emails found
+2026-04-29 11:32:25,770 - INFO - Processing student_01.txt
+2026-04-29 11:32:25,771 - INFO - Done: 71 words found
+2026-04-29 11:32:25,771 - INFO - Done: [] emails found
+2026-04-29 11:32:25,771 - INFO - Done: [] dates found
+2026-04-29 11:32:25,771 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,771 - INFO - Processing student_02.txt
+2026-04-29 11:32:25,771 - INFO - Done: 63 words found
+2026-04-29 11:32:25,771 - INFO - Done: [] emails found
+2026-04-29 11:32:25,771 - INFO - Done: [] dates found
+2026-04-29 11:32:25,771 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,771 - INFO - Processing student_03.txt
+2026-04-29 11:32:25,771 - INFO - Done: 44 words found
+2026-04-29 11:32:25,771 - INFO - Done: [] emails found
+2026-04-29 11:32:25,771 - INFO - Done: [] dates found
+2026-04-29 11:32:25,771 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,771 - INFO - Processing student_04.txt
+2026-04-29 11:32:25,772 - INFO - Done: 55 words found
+2026-04-29 11:32:25,772 - INFO - Done: [] emails found
+2026-04-29 11:32:25,772 - INFO - Done: [] dates found
+2026-04-29 11:32:25,772 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,772 - INFO - Processing student_05.txt
+2026-04-29 11:32:25,772 - INFO - Done: 21 words found
+2026-04-29 11:32:25,772 - INFO - Done: [] emails found
+2026-04-29 11:32:25,772 - INFO - Done: [] dates found
+2026-04-29 11:32:25,772 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,772 - INFO - Processing student_06.txt
+2026-04-29 11:32:25,772 - INFO - Done: 46 words found
+2026-04-29 11:32:25,772 - INFO - Done: [] emails found
+2026-04-29 11:32:25,772 - INFO - Done: [] dates found
+2026-04-29 11:32:25,772 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,772 - INFO - Processing student_07.txt
+2026-04-29 11:32:25,773 - INFO - Done: 60 words found
+2026-04-29 11:32:25,773 - INFO - Done: [] emails found
+2026-04-29 11:32:25,773 - INFO - Done: [] dates found
+2026-04-29 11:32:25,773 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,773 - INFO - Processing student_08.txt
+2026-04-29 11:32:25,773 - INFO - Done: 35 words found
+2026-04-29 11:32:25,773 - INFO - Done: [] emails found
+2026-04-29 11:32:25,773 - INFO - Done: [] dates found
+2026-04-29 11:32:25,773 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,773 - INFO - Processing student_09.txt
+2026-04-29 11:32:25,773 - INFO - Done: 49 words found
+2026-04-29 11:32:25,773 - INFO - Done: [] emails found
+2026-04-29 11:32:25,773 - INFO - Done: [] dates found
+2026-04-29 11:32:25,773 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,773 - INFO - Processing student_10.txt
+2026-04-29 11:32:25,774 - INFO - Done: 58 words found
+2026-04-29 11:32:25,774 - INFO - Done: [] emails found
+2026-04-29 11:32:25,774 - INFO - Done: [] dates found
+2026-04-29 11:32:25,774 - INFO - Done: 0 sentences found
+2026-04-29 11:32:25,774 - INFO - Report saved to report.json
+2026-04-29 11:33:12,628 - INFO - Processing student_01.txt
+2026-04-29 11:33:12,629 - INFO - Done: 71 words found
+2026-04-29 11:33:12,629 - INFO - Done: [] emails found
+2026-04-29 11:33:12,629 - INFO - Done: [] dates found
+2026-04-29 11:33:12,629 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,629 - INFO - Processing student_02.txt
+2026-04-29 11:33:12,629 - INFO - Done: 63 words found
+2026-04-29 11:33:12,629 - INFO - Done: [] emails found
+2026-04-29 11:33:12,629 - INFO - Done: [] dates found
+2026-04-29 11:33:12,629 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,629 - INFO - Processing student_03.txt
+2026-04-29 11:33:12,629 - INFO - Done: 44 words found
+2026-04-29 11:33:12,629 - INFO - Done: [] emails found
+2026-04-29 11:33:12,629 - INFO - Done: [] dates found
+2026-04-29 11:33:12,629 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,630 - INFO - Processing student_04.txt
+2026-04-29 11:33:12,630 - INFO - Done: 55 words found
+2026-04-29 11:33:12,630 - INFO - Done: [] emails found
+2026-04-29 11:33:12,630 - INFO - Done: [] dates found
+2026-04-29 11:33:12,630 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,630 - INFO - Processing student_05.txt
+2026-04-29 11:33:12,630 - INFO - Done: 21 words found
+2026-04-29 11:33:12,630 - INFO - Done: [] emails found
+2026-04-29 11:33:12,630 - INFO - Done: [] dates found
+2026-04-29 11:33:12,630 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,630 - INFO - Processing student_06.txt
+2026-04-29 11:33:12,630 - INFO - Done: 46 words found
+2026-04-29 11:33:12,630 - INFO - Done: [] emails found
+2026-04-29 11:33:12,630 - INFO - Done: [] dates found
+2026-04-29 11:33:12,630 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,631 - INFO - Processing student_07.txt
+2026-04-29 11:33:12,631 - INFO - Done: 60 words found
+2026-04-29 11:33:12,631 - INFO - Done: [] emails found
+2026-04-29 11:33:12,631 - INFO - Done: [] dates found
+2026-04-29 11:33:12,631 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,631 - INFO - Processing student_08.txt
+2026-04-29 11:33:12,631 - INFO - Done: 35 words found
+2026-04-29 11:33:12,631 - INFO - Done: [] emails found
+2026-04-29 11:33:12,631 - INFO - Done: [] dates found
+2026-04-29 11:33:12,631 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,631 - INFO - Processing student_09.txt
+2026-04-29 11:33:12,631 - INFO - Done: 49 words found
+2026-04-29 11:33:12,631 - INFO - Done: [] emails found
+2026-04-29 11:33:12,631 - INFO - Done: [] dates found
+2026-04-29 11:33:12,631 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,632 - INFO - Processing student_10.txt
+2026-04-29 11:33:12,632 - INFO - Done: 58 words found
+2026-04-29 11:33:12,632 - INFO - Done: [] emails found
+2026-04-29 11:33:12,632 - INFO - Done: [] dates found
+2026-04-29 11:33:12,632 - INFO - Done: 0 sentences found
+2026-04-29 11:33:12,632 - INFO - Report saved to report.json
+2026-04-29 11:43:23,455 - INFO - Processing student_01.txt
+2026-04-29 11:43:23,456 - INFO - --------Statistics for student_01.txt--------
+2026-04-29 11:43:23,456 - INFO - Done: 71 words found
+2026-04-29 11:43:23,456 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,456 - INFO - Processing student_02.txt
+2026-04-29 11:43:23,456 - INFO - --------Statistics for student_02.txt--------
+2026-04-29 11:43:23,456 - INFO - Done: 63 words found
+2026-04-29 11:43:23,456 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,456 - INFO - Processing student_03.txt
+2026-04-29 11:43:23,456 - INFO - --------Statistics for student_03.txt--------
+2026-04-29 11:43:23,456 - INFO - Done: 44 words found
+2026-04-29 11:43:23,456 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,456 - INFO - Processing student_04.txt
+2026-04-29 11:43:23,456 - INFO - --------Statistics for student_04.txt--------
+2026-04-29 11:43:23,457 - INFO - Done: 55 words found
+2026-04-29 11:43:23,457 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,457 - INFO - Processing student_05.txt
+2026-04-29 11:43:23,457 - INFO - --------Statistics for student_05.txt--------
+2026-04-29 11:43:23,457 - INFO - Done: 21 words found
+2026-04-29 11:43:23,457 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,457 - INFO - Processing student_06.txt
+2026-04-29 11:43:23,457 - INFO - --------Statistics for student_06.txt--------
+2026-04-29 11:43:23,457 - INFO - Done: 46 words found
+2026-04-29 11:43:23,457 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,457 - INFO - Processing student_07.txt
+2026-04-29 11:43:23,457 - INFO - --------Statistics for student_07.txt--------
+2026-04-29 11:43:23,457 - INFO - Done: 60 words found
+2026-04-29 11:43:23,457 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,457 - INFO - Processing student_08.txt
+2026-04-29 11:43:23,458 - INFO - --------Statistics for student_08.txt--------
+2026-04-29 11:43:23,458 - INFO - Done: 35 words found
+2026-04-29 11:43:23,458 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,458 - INFO - Processing student_09.txt
+2026-04-29 11:43:23,458 - INFO - --------Statistics for student_09.txt--------
+2026-04-29 11:43:23,458 - INFO - Done: 49 words found
+2026-04-29 11:43:23,458 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,458 - INFO - Processing student_10.txt
+2026-04-29 11:43:23,458 - INFO - --------Statistics for student_10.txt--------
+2026-04-29 11:43:23,458 - INFO - Done: 58 words found
+2026-04-29 11:43:23,458 - INFO - Done: 0 sentences found
+2026-04-29 11:43:23,459 - INFO - Report saved to report.json
+2026-04-29 11:48:50,560 - INFO - Processing student_01.txt
+2026-04-29 11:48:50,560 - INFO - --------Statistics for student_01.txt--------
+2026-04-29 11:48:50,560 - INFO - Done: 71 words found
+2026-04-29 11:48:50,560 - INFO - Done: 6 sentences found
+2026-04-29 11:48:50,560 - INFO - Emails found:
+kowalska01@gmail.com
+2026-04-29 11:48:50,560 - INFO - Processing student_02.txt
+2026-04-29 11:48:50,561 - INFO - --------Statistics for student_02.txt--------
+2026-04-29 11:48:50,561 - INFO - Done: 63 words found
+2026-04-29 11:48:50,561 - INFO - Done: 5 sentences found
+2026-04-29 11:48:50,561 - INFO - Emails found:
+study@outlook.com
+2026-04-29 11:48:50,561 - INFO - Processing student_03.txt
+2026-04-29 11:48:50,561 - INFO - --------Statistics for student_03.txt--------
+2026-04-29 11:48:50,561 - INFO - Done: 44 words found
+2026-04-29 11:48:50,561 - INFO - Done: 4 sentences found
+2026-04-29 11:48:50,561 - INFO - Processing student_04.txt
+2026-04-29 11:48:50,561 - INFO - --------Statistics for student_04.txt--------
+2026-04-29 11:48:50,561 - INFO - Done: 55 words found
+2026-04-29 11:48:50,561 - INFO - Done: 8 sentences found
+2026-04-29 11:48:50,561 - INFO - Processing student_05.txt
+2026-04-29 11:48:50,561 - INFO - --------Statistics for student_05.txt--------
+2026-04-29 11:48:50,562 - INFO - Done: 21 words found
+2026-04-29 11:48:50,562 - INFO - Done: 3 sentences found
+2026-04-29 11:48:50,562 - INFO - Processing student_06.txt
+2026-04-29 11:48:50,562 - INFO - --------Statistics for student_06.txt--------
+2026-04-29 11:48:50,562 - INFO - Done: 46 words found
+2026-04-29 11:48:50,562 - INFO - Done: 4 sentences found
+2026-04-29 11:48:50,562 - INFO - Emails found:
+ai@gmail.com
+2026-04-29 11:48:50,562 - INFO - Processing student_07.txt
+2026-04-29 11:48:50,562 - INFO - --------Statistics for student_07.txt--------
+2026-04-29 11:48:50,562 - INFO - Done: 60 words found
+2026-04-29 11:48:50,562 - INFO - Done: 5 sentences found
+2026-04-29 11:48:50,562 - INFO - Emails found:
+travel07@interia.pl
+2026-04-29 11:48:50,562 - INFO - Processing student_08.txt
+2026-04-29 11:48:50,562 - INFO - --------Statistics for student_08.txt--------
+2026-04-29 11:48:50,562 - INFO - Done: 35 words found
+2026-04-29 11:48:50,563 - INFO - Done: 4 sentences found
+2026-04-29 11:48:50,563 - INFO - Processing student_09.txt
+2026-04-29 11:48:50,563 - INFO - --------Statistics for student_09.txt--------
+2026-04-29 11:48:50,563 - INFO - Done: 49 words found
+2026-04-29 11:48:50,563 - INFO - Done: 4 sentences found
+2026-04-29 11:48:50,563 - INFO - Emails found:
+workstudy09@gmail.com
+2026-04-29 11:48:50,563 - INFO - Processing student_10.txt
+2026-04-29 11:48:50,563 - INFO - --------Statistics for student_10.txt--------
+2026-04-29 11:48:50,563 - INFO - Done: 58 words found
+2026-04-29 11:48:50,563 - INFO - Done: 5 sentences found
+2026-04-29 11:48:50,564 - INFO - Report saved to report.json
+2026-04-29 11:55:45,981 - INFO - Processing student_01.txt
+2026-04-29 11:55:45,981 - INFO - --------Statistics for student_01.txt--------
+2026-04-29 11:55:45,981 - INFO - Done: 71 words found
+2026-04-29 11:55:45,981 - INFO - Done: 6 sentences found
+2026-04-29 11:55:45,981 - INFO - Emails found:
+anna.kowalska01@gmail.com
+2026-04-29 11:55:45,981 - INFO - Dates found:
+12/03/2026
+2026-04-29 11:55:45,981 - INFO - Processing student_02.txt
+2026-04-29 11:55:45,981 - INFO - --------Statistics for student_02.txt--------
+2026-04-29 11:55:45,981 - INFO - Done: 63 words found
+2026-04-29 11:55:45,981 - INFO - Done: 5 sentences found
+2026-04-29 11:55:45,981 - INFO - Emails found:
+tomasz.nowak.study@outlook.com
+2026-04-29 11:55:45,981 - INFO - Dates found:
+15/03/2026
+2026-04-29 11:55:45,982 - INFO - Processing student_03.txt
+2026-04-29 11:55:45,982 - INFO - --------Statistics for student_03.txt--------
+2026-04-29 11:55:45,982 - INFO - Done: 44 words found
+2026-04-29 11:55:45,982 - INFO - Done: 4 sentences found
+2026-04-29 11:55:45,982 - INFO - Dates found:
+18/03/2026
+2026-04-29 11:55:45,982 - INFO - Processing student_04.txt
+2026-04-29 11:55:45,982 - INFO - --------Statistics for student_04.txt--------
+2026-04-29 11:55:45,982 - INFO - Done: 55 words found
+2026-04-29 11:55:45,982 - INFO - Done: 8 sentences found
+2026-04-29 11:55:45,982 - INFO - Processing student_05.txt
+2026-04-29 11:55:45,982 - INFO - --------Statistics for student_05.txt--------
+2026-04-29 11:55:45,982 - INFO - Done: 21 words found
+2026-04-29 11:55:45,982 - INFO - Done: 3 sentences found
+2026-04-29 11:55:45,983 - INFO - Processing student_06.txt
+2026-04-29 11:55:45,983 - INFO - --------Statistics for student_06.txt--------
+2026-04-29 11:55:45,983 - INFO - Done: 46 words found
+2026-04-29 11:55:45,983 - INFO - Done: 4 sentences found
+2026-04-29 11:55:45,983 - INFO - Emails found:
+elena.rodriguez.ai@gmail.com
+2026-04-29 11:55:45,983 - INFO - Processing student_07.txt
+2026-04-29 11:55:45,983 - INFO - --------Statistics for student_07.txt--------
+2026-04-29 11:55:45,983 - INFO - Done: 60 words found
+2026-04-29 11:55:45,983 - INFO - Done: 5 sentences found
+2026-04-29 11:55:45,983 - INFO - Emails found:
+pawel.travel07@interia.pl
+2026-04-29 11:55:45,983 - INFO - Dates found:
+27/03/2026
+2026-04-29 11:55:45,983 - INFO - Processing student_08.txt
+2026-04-29 11:55:45,983 - INFO - --------Statistics for student_08.txt--------
+2026-04-29 11:55:45,983 - INFO - Done: 35 words found
+2026-04-29 11:55:45,983 - INFO - Done: 4 sentences found
+2026-04-29 11:55:45,984 - INFO - Processing student_09.txt
+2026-04-29 11:55:45,984 - INFO - --------Statistics for student_09.txt--------
+2026-04-29 11:55:45,984 - INFO - Done: 49 words found
+2026-04-29 11:55:45,984 - INFO - Done: 4 sentences found
+2026-04-29 11:55:45,984 - INFO - Emails found:
+olga.workstudy09@gmail.com
+2026-04-29 11:55:45,984 - INFO - Processing student_10.txt
+2026-04-29 11:55:45,984 - INFO - --------Statistics for student_10.txt--------
+2026-04-29 11:55:45,984 - INFO - Done: 58 words found
+2026-04-29 11:55:45,984 - INFO - Done: 5 sentences found
+2026-04-29 11:55:45,985 - INFO - Report saved to report.json
+2026-04-29 12:52:13,944 - INFO - Processing student_01.txt
+2026-04-29 12:52:13,945 - INFO - --------Statistics for student_01.txt--------
+2026-04-29 12:52:13,945 - INFO - Done: 71 words found
+2026-04-29 12:52:13,945 - INFO - Done: 6 sentences found
+2026-04-29 12:52:13,945 - INFO - Emails found:
+anna.kowalska01@gmail.com
+2026-04-29 12:52:13,946 - INFO - Dates found:
+12/03/2026
+2026-04-29 12:52:13,946 - INFO - Processing student_02.txt
+2026-04-29 12:52:13,946 - INFO - --------Statistics for student_02.txt--------
+2026-04-29 12:52:13,947 - INFO - Done: 63 words found
+2026-04-29 12:52:13,947 - INFO - Done: 5 sentences found
+2026-04-29 12:52:13,947 - INFO - Emails found:
+tomasz.nowak.study@outlook.com
+2026-04-29 12:52:13,947 - INFO - Dates found:
+15/03/2026
+2026-04-29 12:52:13,947 - INFO - Processing student_03.txt
+2026-04-29 12:52:13,948 - INFO - --------Statistics for student_03.txt--------
+2026-04-29 12:52:13,948 - INFO - Done: 44 words found
+2026-04-29 12:52:13,948 - INFO - Done: 4 sentences found
+2026-04-29 12:52:13,948 - INFO - Dates found:
+18/03/2026
+2026-04-29 12:52:13,949 - INFO - Processing student_04.txt
+2026-04-29 12:52:13,949 - INFO - --------Statistics for student_04.txt--------
+2026-04-29 12:52:13,949 - INFO - Done: 55 words found
+2026-04-29 12:52:13,950 - INFO - Done: 8 sentences found
+2026-04-29 12:52:13,950 - INFO - Processing student_05.txt
+2026-04-29 12:52:13,950 - INFO - --------Statistics for student_05.txt--------
+2026-04-29 12:52:13,950 - INFO - Done: 21 words found
+2026-04-29 12:52:13,951 - INFO - Done: 3 sentences found
+2026-04-29 12:52:13,951 - INFO - Processing student_06.txt
+2026-04-29 12:52:13,952 - INFO - --------Statistics for student_06.txt--------
+2026-04-29 12:52:13,952 - INFO - Done: 46 words found
+2026-04-29 12:52:13,952 - INFO - Done: 4 sentences found
+2026-04-29 12:52:13,952 - INFO - Emails found:
+elena.rodriguez.ai@gmail.com
+2026-04-29 12:52:13,952 - INFO - Processing student_07.txt
+2026-04-29 12:52:13,953 - INFO - --------Statistics for student_07.txt--------
+2026-04-29 12:52:13,953 - INFO - Done: 60 words found
+2026-04-29 12:52:13,953 - INFO - Done: 5 sentences found
+2026-04-29 12:52:13,953 - INFO - Emails found:
+pawel.travel07@interia.pl
+2026-04-29 12:52:13,953 - INFO - Dates found:
+27/03/2026
+2026-04-29 12:52:13,954 - INFO - Processing student_08.txt
+2026-04-29 12:52:13,954 - INFO - --------Statistics for student_08.txt--------
+2026-04-29 12:52:13,954 - INFO - Done: 35 words found
+2026-04-29 12:52:13,954 - INFO - Done: 4 sentences found
+2026-04-29 12:52:13,955 - INFO - Processing student_09.txt
+2026-04-29 12:52:13,955 - INFO - --------Statistics for student_09.txt--------
+2026-04-29 12:52:13,955 - INFO - Done: 49 words found
+2026-04-29 12:52:13,955 - INFO - Done: 4 sentences found
+2026-04-29 12:52:13,956 - INFO - Emails found:
+olga.workstudy09@gmail.com
+2026-04-29 12:52:13,956 - INFO - Processing student_10.txt
+2026-04-29 12:52:13,956 - INFO - --------Statistics for student_10.txt--------
+2026-04-29 12:52:13,957 - INFO - Done: 58 words found
+2026-04-29 12:52:13,957 - INFO - Done: 5 sentences found
+2026-04-29 12:52:13,959 - INFO - Report saved to report.json
+2026-05-01 09:42:57,671 - INFO - Processing student_01.txt
+2026-05-01 09:42:57,671 - INFO - --------Statistics for student_01.txt--------
+2026-05-01 09:42:57,678 - INFO - Words: 71 | Sentences: 6 | Emails: 1 | Dates: 1
+2026-05-01 09:42:57,678 - INFO - Emails found: anna.kowalska01@gmail.com
+2026-05-01 09:42:57,678 - INFO - Dates found: 12/03/2026
+2026-05-01 09:42:57,679 - INFO - Processing student_02.txt
+2026-05-01 09:42:57,679 - INFO - --------Statistics for student_02.txt--------
+2026-05-01 09:42:57,685 - INFO - Words: 63 | Sentences: 5 | Emails: 1 | Dates: 1
+2026-05-01 09:42:57,685 - INFO - Emails found: tomasz.nowak.study@outlook.com
+2026-05-01 09:42:57,685 - INFO - Dates found: 15/03/2026
+2026-05-01 09:42:57,685 - INFO - Processing student_03.txt
+2026-05-01 09:42:57,685 - INFO - --------Statistics for student_03.txt--------
+2026-05-01 09:42:57,691 - INFO - Words: 44 | Sentences: 4 | Emails: 0 | Dates: 1
+2026-05-01 09:42:57,691 - INFO - Dates found: 18/03/2026
+2026-05-01 09:42:57,691 - INFO - Processing student_04.txt
+2026-05-01 09:42:57,691 - INFO - --------Statistics for student_04.txt--------
+2026-05-01 09:42:57,698 - INFO - Words: 55 | Sentences: 8 | Emails: 0 | Dates: 0
+2026-05-01 09:42:57,698 - INFO - Processing student_05.txt
+2026-05-01 09:42:57,698 - INFO - --------Statistics for student_05.txt--------
+2026-05-01 09:42:57,704 - INFO - Words: 21 | Sentences: 3 | Emails: 0 | Dates: 0
+2026-05-01 09:42:57,704 - INFO - Processing student_06.txt
+2026-05-01 09:42:57,704 - INFO - --------Statistics for student_06.txt--------
+2026-05-01 09:42:57,710 - INFO - Words: 46 | Sentences: 4 | Emails: 1 | Dates: 0
+2026-05-01 09:42:57,710 - INFO - Emails found: elena.rodriguez.ai@gmail.com
+2026-05-01 09:42:57,710 - INFO - Processing student_07.txt
+2026-05-01 09:42:57,710 - INFO - --------Statistics for student_07.txt--------
+2026-05-01 09:42:57,716 - INFO - Words: 60 | Sentences: 5 | Emails: 1 | Dates: 1
+2026-05-01 09:42:57,716 - INFO - Emails found: pawel.travel07@interia.pl
+2026-05-01 09:42:57,716 - INFO - Dates found: 27/03/2026
+2026-05-01 09:42:57,716 - INFO - Processing student_08.txt
+2026-05-01 09:42:57,716 - INFO - --------Statistics for student_08.txt--------
+2026-05-01 09:42:57,723 - INFO - Words: 35 | Sentences: 4 | Emails: 0 | Dates: 0
+2026-05-01 09:42:57,723 - INFO - Processing student_09.txt
+2026-05-01 09:42:57,723 - INFO - --------Statistics for student_09.txt--------
+2026-05-01 09:42:57,730 - INFO - Words: 49 | Sentences: 4 | Emails: 1 | Dates: 0
+2026-05-01 09:42:57,730 - INFO - Emails found: olga.workstudy09@gmail.com
+2026-05-01 09:42:57,730 - INFO - Processing student_10.txt
+2026-05-01 09:42:57,730 - INFO - --------Statistics for student_10.txt--------
+2026-05-01 09:42:57,736 - INFO - Words: 58 | Sentences: 5 | Emails: 0 | Dates: 0

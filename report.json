@@ -1,0 +1,80 @@
+{
+    "student_01.txt": {
+        "words_count": 71,
+        "emails": [
+            "anna.kowalska01@gmail.com"
+        ],
+        "dates": [
+            "12/03/2026"
+        ],
+        "sentences_count": 6
+    },
+    "student_02.txt": {
+        "words_count": 63,
+        "emails": [
+            "tomasz.nowak.study@outlook.com"
+        ],
+        "dates": [
+            "15/03/2026"
+        ],
+        "sentences_count": 5
+    },
+    "student_03.txt": {
+        "words_count": 44,
+        "emails": [],
+        "dates": [
+            "18/03/2026"
+        ],
+        "sentences_count": 4
+    },
+    "student_04.txt": {
+        "words_count": 55,
+        "emails": [],
+        "dates": [],
+        "sentences_count": 8
+    },
+    "student_05.txt": {
+        "words_count": 21,
+        "emails": [],
+        "dates": [],
+        "sentences_count": 3
+    },
+    "student_06.txt": {
+        "words_count": 46,
+        "emails": [
+            "elena.rodriguez.ai@gmail.com"
+        ],
+        "dates": [],
+        "sentences_count": 4
+    },
+    "student_07.txt": {
+        "words_count": 60,
+        "emails": [
+            "pawel.travel07@interia.pl"
+        ],
+        "dates": [
+            "27/03/2026"
+        ],
+        "sentences_count": 5
+    },
+    "student_08.txt": {
+        "words_count": 35,
+        "emails": [],
+        "dates": [],
+        "sentences_count": 4
+    },
+    "student_09.txt": {
+        "words_count": 49,
+        "emails": [
+            "olga.workstudy09@gmail.com"
+        ],
+        "dates": [],
+        "sentences_count": 4
+    },
+    "student_10.txt": {
+        "words_count": 58,
+        "emails": [],
+        "dates": [],
+        "sentences_count": 5
+    }
+}

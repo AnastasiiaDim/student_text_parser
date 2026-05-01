@@ -30,7 +30,7 @@ results = {}
 
 for file_name in student_folder.iterdir():
     logging.info(f"Processing {file_name.name}")
-
+    logging.info(f"--------Statistics for {file_name.name}--------")
     try:
         with open(file_name, "r", encoding="utf-8") as f:
             text = f.read()
@@ -45,19 +45,28 @@ for file_name in student_folder.iterdir():
                 "dates": dates,
                 "sentences_count": len(sentences)
             }
-            logging.info(f"--------Statistics for {file_name.name}--------")
-            logging.info(f"Done: {len(words)} words found")
-            logging.info(f"Done: {len(sentences)} sentences found")
+
+            logging.info(f"Words: {len(words)} | Sentences: {len(sentences)} | Emails: {len(emails)} | Dates: {len(dates)}")
             if emails:
-                logging.info(f"Emails found:\n{'\n'.join(emails)}")
+                logging.info(f"Emails found: {', '.join(emails)}")
             if dates:
-                logging.info(f"Dates found:\n{'\n'.join(dates)}")
+                logging.info(f"Dates found: {', '.join(dates)}")
 
     except FileNotFoundError:
-        logging.warning(f"File not found: {file_name}")
+        logging.error(f"File not found: {file_name}")
 
-with open("report.json", "w") as f:
-    json.dump(results, f, indent=4)
+summary = {
+    "total_files": len(results),
+    "total_words": sum(r["words_count"] for r in results.values()),
+    "total_sentences": sum(r["sentences"] for r in results.values()),
+    "files_with_emails": sum(1 for r in results.values() if r["emails"]),
+    "files_with_dates": sum(1 for r in results.values() if r["dates"]),
+}
+
+output = {"summary": summary, "results": results}
+
+with open("report.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=4, ensure_ascii=False)
 
 logging.info("Report saved to report.json")
 
